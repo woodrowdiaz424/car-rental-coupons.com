@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Car Rental Coupons Blog]]></title>
+  <link href="http://www.car-rental-coupons.com/atom.xml" rel="self"/>
+  <link href="http://www.car-rental-coupons.com/"/>
+  <updated>2014-03-19T15:47:50+00:00</updated>
+  <id>http://www.car-rental-coupons.com/</id>
+  <author>
+    <name><![CDATA[Woodrow Diaz]]></name>
+    
+  </author>
+
+  
+</feed>

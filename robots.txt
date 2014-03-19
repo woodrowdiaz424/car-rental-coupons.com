@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /cb/
+Sitemap: http://www.car-rental-coupons.com/sitemap.xml 
